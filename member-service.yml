@@ -1,0 +1,7 @@
+spring:
+  datasource:
+    url: jdbc:h2:tcp://localhost/~/h2/h2db/liar
+    #    url: jdbc:h2:mem:test
+    username: sa
+    password: '{cipher}AQB34nzSERK024/KMlwXZ7EZqIRC641gm47EjN0VUquYjvBZKnLfp/LI5CXE2/pBqkx0V6CVRUwhuMZbGltxLy5UErjNE7GQvq1L7LtdsZurxeOdzQceEwFubSFUW2hseclpeqnQDXcXUEZYv7M/rBpZtQz94XpRx37141tTny0OnQYxP0zay/s0mbGJ3hKGA5cdpb6RXyH+yUT5jHC7WBXRujpmXTVgn43NcGRJ8tkTsd4KC0X8Il8ik93ZEGMkW7C4pL0oBXDdlwk2EIaPLn55ipR8SiiO9W/DnILNipn021QuGqb72JJBnFtL2LKAP7y92bg1Dzp11a3zFJhpYPxApl9jZt4n+qZVJSAtoBATKWl1qmxHVSrrPfSPrMN3dS4='
+    driver-class-name: org.h2.Driver
