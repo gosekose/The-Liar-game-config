@@ -11,3 +11,12 @@ jwt:
   
 gateway:
   ip: localhost:8000
+  
+  
+liar:
+  member-service:
+    port: 8080
+  wait-service:
+    port: 8081
+  game-service:
+    port: 8079
