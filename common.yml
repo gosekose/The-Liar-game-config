@@ -15,8 +15,8 @@ gateway:
   
 liar:
   member-service:
-    port: 8080
+    uri: http://localhost:8080
   wait-service:
-    port: 8081
+    uri: http://localhost:8080
   game-service:
-    port: 8079
+    uri: http://localhost:8080
