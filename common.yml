@@ -20,3 +20,10 @@ liar:
     uri: http://localhost:8080
   game-service:
     uri: http://localhost:8080
+    
+
+game:
+  member:
+    limit:
+      min: 3
+      max: 15
