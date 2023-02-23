@@ -27,3 +27,7 @@ game:
     limit:
       min: 3
       max: 15
+      
+      
+topic:
+  range: 10
